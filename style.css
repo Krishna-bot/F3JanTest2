@@ -1,0 +1,35 @@
+.slider{
+    color: #000;
+    margin: 5px 0 10px 0;
+    border: 10px solid black;
+    border-radius: 10px;
+
+  }
+  .form-container{
+    padding: 10px;
+    height: 100vh;
+    font-size: large;
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+  }
+  .form-container h1{
+    text-align: center;
+  }
+.row{
+   
+    color: #000;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    border: 2px blanchedalmond ;
+}
+.name{
+    padding: 30px;
+    display: flex;
+}
+.name2{
+    padding: 30px;
+    grid-column: span;
+}   
